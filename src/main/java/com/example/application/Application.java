@@ -12,6 +12,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * and some desktop browsers.
  *
  */
+
 @SpringBootApplication
 @Theme(value = "flowcrmtutorial")
 public class Application implements AppShellConfigurator {
